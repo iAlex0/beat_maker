@@ -1,4 +1,4 @@
-# Drum kit machine / Beat maker With Pygame.
+# Drum kit machine / Beat maker with Pygame.
 
 Python & Pygame drum kit machine / beat maker.
 
